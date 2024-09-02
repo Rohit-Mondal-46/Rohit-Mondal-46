@@ -1,6 +1,6 @@
 # Hello, I'm [Rohit Mondal]! 👋
 
-![Profile Views](https://profile-counter.glitch.me/Rohit-Mondal-46/count.svg)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Rohit-Mondal-46.Rohit-Mondal-46)
 
 ## 🚀 About Me
 - 🌱 I’m currently learning [Backend With Node.js].
