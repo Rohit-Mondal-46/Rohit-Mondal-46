@@ -3,8 +3,8 @@
 
 
 ## 🚀 About Me
-- 🌱 I’m currently learning Backend With Node.js.
-- 👯 I’m looking to collaborate on Open source projects, ideas.
+- 🌱 I’m currently learning TypeScript to add type safety to my projects.
+- 👯 I’m looking to collaborate on Open-source projects, ideas.
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: rohitmondal0046@gmail.com.
 
@@ -21,9 +21,6 @@
 
 ### Tools
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)
-
-### Platforms
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ### Soft Skills
 - 👫 Team Work  🗣️ Communication
