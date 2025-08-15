@@ -10,7 +10,7 @@
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:rohitmondal0046@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-mondal-rm46)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RohitMondal_11)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/RohitMondal_46)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white)](https://www.rohit-mondal.tech)
 
 
