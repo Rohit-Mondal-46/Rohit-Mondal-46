@@ -3,9 +3,9 @@
 
 
 ## 🚀 About Me
-- 🌱 I’m a CSE student, currently Exploring BlockChain.
+- 🌱 I’m a CSE student, currently exploring AI/ML.
 - 👯 I love to collaborate on Open-source projects, ideas.
-- 💬 Ask me about Web Development & BlockChain.
+- 💬 Ask me about Web Development & AI/ML.
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:rohitmondal0046@gmail.com)
